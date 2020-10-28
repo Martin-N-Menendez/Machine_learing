@@ -4,9 +4,9 @@
 
 ## Python
 ### Guia 1
-| Ejercicio | Listo |
+| Ejercicio | Terminado |
 | :-: | :-: |
-| 1.1 | <li> [x] Terminado</li>|
+| 1.1 | <li> [x] </li>|
 | 1.2 | <li> [ ] </li>|
 | 1.3 | <li> [ ] </li>|
 | 1.4 | <li> [ ] </li>|
