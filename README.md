@@ -6,7 +6,7 @@
 ### Guia 1
 | Ejercicio | Terminado |
 | :-: | :-: |
-| 1.1 | <ul> [x] </ul>|
+| 1.1 | <ul><li> [ ] </li></ul>|
 | 1.2 | <li> [ ] </li>|
 | 1.3 | <li> [ ] </li>|
 | 1.4 | <li> [ ] </li>|
