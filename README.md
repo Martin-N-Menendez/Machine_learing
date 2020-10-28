@@ -7,7 +7,7 @@
 | Ejercicio | Listo |
 | :-: | :-: |
 | 1.1 | <li>[ ] item2</li>|
-| 1.2 | <li>[ ]</li> | 
+| 1.2 | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul> | 
 | 1.3 | <li>[ ]</li> | 
 | 1.4 | <li>[ ]</li> |
 | 1.5 | <li>[ ]</li> |
