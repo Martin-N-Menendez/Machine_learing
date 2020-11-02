@@ -2,7 +2,7 @@
 
 ***
 
-## Python ![5/30%](https://progress-bar.dev/17)
+## Python ![11/30%](https://progress-bar.dev/37)
   
 ### Guia 1
 | Ejercicio | Guia 1 | Guia 2 | Guia 3 | Guia 4 | Guia 5 | Guia 6 | Guia 7 |
