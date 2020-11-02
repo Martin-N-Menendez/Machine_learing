@@ -12,9 +12,9 @@
 | 3 | <ul><li> [x] </li></ul>|  <ul><li> [ ] </li></ul>| |  <ul><li> [ ] </li></ul>|  <ul><li> [ ] </li></ul>|  <ul><li> [ ] </li></ul>| |
 | 4 | <ul><li> [x] </li></ul>|  <ul><li> [ ] </li></ul>| | | | | |
 | 5 | <ul><li> [x] </li></ul>|  <ul><li> [ ] </li></ul>| | | | | |
-| 6 | <ul><li> [ ] </li></ul>|  <ul><li> [ ] </li></ul>| | | | | |
-| 7 | <ul><li> [ ] </li></ul>|  <ul><li> [ ] </li></ul>| | | | | |
-| 8 | <ul><li> [ ] </li></ul>|
-| 9 | <ul><li> [ ] </li></ul>|
-| 10 | <ul><li> [ ] </li></ul>|
-| 11 | <ul><li> [ ] </li></ul>|
+| 6 | <ul><li> [x] </li></ul>|  <ul><li> [ ] </li></ul>| | | | | |
+| 7 | <ul><li> [x] </li></ul>|  <ul><li> [ ] </li></ul>| | | | | |
+| 8 | <ul><li> [x] </li></ul>|
+| 9 | <ul><li> [x] </li></ul>|
+| 10 | <ul><li> [x] </li></ul>|
+| 11 | <ul><li> [x] </li></ul>|
