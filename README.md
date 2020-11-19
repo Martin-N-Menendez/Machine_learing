@@ -4,7 +4,7 @@
 
 ## Python ![18/30%](https://progress-bar.dev/60)
   
-### Guia 1
+### Guia 1 
 | Ejercicio | Guia 1 | Guia 2 | Guia 3 | Guia 4 | Guia 5 | Guia 6 | Guia 7 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | <ul><li> [x] </li></ul>| <ul><li> [x] </li></ul>| <ul><li> [ ] </li></ul>| <ul><li> [ ] </li></ul>| <ul><li> [ ] </li></ul>| <ul><li> [ ] </li></ul>| <ul><li> [ ] </li></ul>|
